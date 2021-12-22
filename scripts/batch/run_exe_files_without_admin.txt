@@ -1,0 +1,3 @@
+Windows 10 21H2
+1. put on desktop.
+2. drag exe apps on it to run it through the batch file.
