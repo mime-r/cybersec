@@ -1,2 +1,2 @@
-# cybersec
+# script-dump
 oh ho ho
